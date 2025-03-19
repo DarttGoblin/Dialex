@@ -1,4 +1,4 @@
-Name: Dialex ظ <b><b>
+Name: Dialex 🗣️ <br><br>
 Description:
 	Dialex is a specialized tool designed to detect and analyze Arabic dialects 
 	from spoken language. By utilizing advanced machine learning models trained 
