@@ -1,0 +1,10 @@
+Name: Asclepius ⚕️
+Description:
+	Asclepius involves developing a clinical Named Entity Recognition (NER) 
+	model to extract key biomedical entities—such as genes, proteins, symptoms, 
+	and diseases—from English medical literature. Using distant supervision, 
+	the model leverages existing resources to automatically label and extract 
+	relevant information from large volumes of medical text. The goal is to 
+	enhance the efficiency of medical literature analysis by identifying and 
+	categorizing crucial entities, contributing to advancements in healthcare 
+	research and knowledge management.
