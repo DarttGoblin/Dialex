@@ -1,4 +1,3 @@
-const user_input = document.querySelector('.user-input');
 const analyse_text = document.querySelector('.analyse-text');
 const results_container = document.querySelector('.results-container');
 
@@ -94,4 +93,6 @@ function CreateResponse(dialect, prediction) {
     result_container.appendChild(result_image);
     result_container.appendChild(result_text_container);
     results_container.appendChild(result_container);
+
+    result_container.scrollIntoView({ behavior: "smooth", block: "start" });
 }
