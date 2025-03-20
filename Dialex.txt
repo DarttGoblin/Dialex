@@ -1,10 +1,11 @@
-Name: Asclepius ⚕️
+Name: Dialex ظ
 Description:
-	Asclepius involves developing a clinical Named Entity Recognition (NER) 
-	model to extract key biomedical entities—such as genes, proteins, symptoms, 
-	and diseases—from English medical literature. Using distant supervision, 
-	the model leverages existing resources to automatically label and extract 
-	relevant information from large volumes of medical text. The goal is to 
-	enhance the efficiency of medical literature analysis by identifying and 
-	categorizing crucial entities, contributing to advancements in healthcare 
-	research and knowledge management.
+	Dialex is a specialized tool designed to detect and analyze Arabic dialects 
+	from spoken language. By utilizing advanced machine learning models trained 
+	on a wide range of Arabic dialects, Dialex accurately identifies regional 
+	variations such as Levantine, Gulf, Egyptian, Maghrebi, and more. This tool 
+	provides real-time dialect recognition, offering insights into the linguistic 
+	diversity across the Arab world. Ideal for linguistic research, language 
+	learning, and enhancing communication in multilingual Arabic-speaking regions, 
+	Dialex helps bridge the gap between dialects, fostering better understanding 
+	and cultural appreciation.
