@@ -1,0 +1,11 @@
+Name: Dialex 🗣️ <br><br>
+Description:
+	Dialex is a specialized tool designed to detect and analyze Arabic dialects 
+	from spoken language. By utilizing advanced machine learning models trained 
+	on a wide range of Arabic dialects, Dialex accurately identifies regional 
+	variations such as Levantine, Gulf, Egyptian, Maghrebi, and more. This tool 
+	provides real-time dialect recognition, offering insights into the linguistic 
+	diversity across the Arab world. Ideal for linguistic research, language 
+	learning, and enhancing communication in multilingual Arabic-speaking regions, 
+	Dialex helps bridge the gap between dialects, fostering better understanding 
+	and cultural appreciation.
