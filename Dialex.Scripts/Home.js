@@ -1,5 +1,10 @@
-const header_analyse_button = document.querySelector('.header-analyse-button');
+const submit = document.querySelector('.submit');
+const github = document.querySelector('.github');
 
-header_analyse_button.onclick = function() {
+submit.onclick = function() {
     section[1].scrollIntoView({behavior: 'smooth'});
+}
+
+github.onclick = function() {
+    window.open('https://github.com/DarttGoblin/Dialex', '_blank');
 }
