@@ -36,6 +36,14 @@
     margin-bottom: 30px;
 }
 
+.home-buttons-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
 .header-button {
     width: fit-content;
     padding: 15px 30px;
@@ -58,13 +66,13 @@
     border: 2px solid var(--primary-hover);
 }
 
-.github {
+.github, .demo {
     color: var(--primary-color);
     border: 3px solid var(--primary-color);
     background: none;
 }
 
-.github:hover {
+.github:hover, .demo:hover {
     color: var(--primary-light-hover);
     border: 3px solid var(--primary-light-hover);
 }

@@ -66,7 +66,8 @@ function SendToModel(user_input) {
     })
     .catch(err => {
         console.error('Error:', err);
-        alert('There was an error with the server! Please try again.');
+        // alert('There was an error with the server! Please try again.');
+        alert('The model used in this project is too large for GitHub to handle. We are working on a solution, but in the meantime, you can check out the demo to see how the interface works!');
         analyse_text.innerHTML = 'Analyse Text';
     });
 }
